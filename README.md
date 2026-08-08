@@ -1,3 +1,3 @@
 # Teacher 
 
-This is my home to learn
+This is my home to learn.
